@@ -1,0 +1,59 @@
+substance,candidate_type,distance,concept_name,concept_id
+adrenaline,fuzzy review,1,adrenalone,19018407
+amphoteracin,fuzzy review,1,amphotericin,952045
+androstanalone,fuzzy review,1,androstanolone,36848825
+benzoin,fuzzy review,2,benmoxin,36863145
+betacarotene,fuzzy review,1,beta carotene,19037223
+c1-esterase inhibitor,fuzzy review,1,c1 esterase inhibitor,45892906
+calcipotriol,fuzzy review,2,calcitriol,19035631
+carbomer 974p,fuzzy review,1,carbomer-974p,43012315
+ciclosporin,fuzzy review,2,cyclosporine,19010482
+clomethiazole,fuzzy review,2,chlormethiazole,19092283
+cloral betaine,fuzzy review,1,chloral betaine,19135825
+clotiapine,fuzzy review,1,clothiapine,19100363
+clotiapine,fuzzy review,2,clozapine,800878
+etamsylate,fuzzy review,1,ethamsylate,19049350
+fampridine,fuzzy review,1,fampiridine,36878867
+fampridine,fuzzy review,2,famotidine,953076
+flubiprofen,fuzzy review,1,flurbiprofen,1156378
+flubiprofen,fuzzy review,2,fluprofen,36860348
+fusafungine,fuzzy review,1,fusafungin,19097405
+gamolenic acid,fuzzy review,2,gadoleic acid,36851506
+glycerol,fuzzy review,1,glyceryl,740035
+glycerol,fuzzy review,2,glycerin,961145
+haem arginate,fuzzy review,2,heme arginate,19068899
+heparinoid,fuzzy review,1,heparinoids,19113045
+hepatitis b immunoglobulin,fuzzy review,2,hepatitis b immune globulin,501343
+interferon beta,fuzzy review,1,interferon-beta,19109079
+iron sorbitol,fuzzy review,2,iron sorbitex,19003345
+liquorice,fuzzy review,2,licorice,1353048
+lusutrombop,fuzzy review,2,lusutrombopag,35200302
+menotrophin,fuzzy review,2,menotropins,36852653
+mesuximide,fuzzy review,2,methsuximide,759401
+mesuximide,fuzzy review,2,morsuximide,40798969
+methyl nicotinate,fuzzy review,1,methylnicotinate,19009874
+methyl-5-aminolevulinate,fuzzy review,1,methyl 5-aminolevulinate,19025194
+nicotinic acid,fuzzy review,2,nicotinuric acid,793527
+nonoxinol 9,fuzzy review,2,nonoxynol-9,969444
+noxytiolin,fuzzy review,1,noxythiolin,19128375
+padimate o,fuzzy review,1,padimate a,43012392
+padimate o,fuzzy review,1,padimate-o,19082898
+pericyazine,fuzzy review,1,periciazine,19053565
+phosphates,fuzzy review,2,phosphite,36249479
+polymyxins,fuzzy review,2,polymyxin b,948582
+polysaccharide-iron complex,fuzzy review,1,polysaccharide iron complex,1300751
+povidone iodine,fuzzy review,1,povidone-iodine,1750087
+povidone k 25,fuzzy review,1,povidone k25,43012913
+povidone k 25,fuzzy review,2,povidone k15,42903746
+rifampicin,fuzzy review,2,rifampin,1763204
+rutosides,fuzzy review,2,ruscosides,36879014
+sennosides,fuzzy review,2,sennoside a,36850213
+sennosides,fuzzy review,2,sennoside b,19115055
+sitaxentan sodium,fuzzy review,1,sitaxsentan sodium,44012794
+sultiame,fuzzy review,1,sulthiame,19000921
+tars,fuzzy review,2,talc,1036667
+tetanus immunoglobulin,fuzzy review,2,tetanus immune globulin,35604680
+tiabendazole,fuzzy review,1,thiabendazole,1837289
+tocofersolan,fuzzy review,2,tocophersolan,19018322
+trimetazidine hydrochloride,fuzzy review,2,trimetazidine dihydrochloride,40684649
+varicella-zoster immunoglobulin,fuzzy review,2,varicella-zoster immune globulin,543291
